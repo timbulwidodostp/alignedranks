@@ -1,6 +1,8 @@
 # alignedranks
 Two-sample aligned rank-sum (Hodges-Lehmann) test with exact statistics for small samples Use alignedranks With STATA 18
 
+https://www.youtube.com/watch?v=tefhv4Czcrw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
